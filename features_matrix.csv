@@ -1,0 +1,2 @@
+file_name,close_contacts,h_bond_like,hydrophobic_contacts,mol_wt,logp,num_h_donors,num_h_acceptors,pocket_atom_count
+XP_500_bestposes_complex.pdb,34,2,1,176.21899999999994,1.3747,3,2,268
