@@ -1,4 +1,4 @@
-**GPCR Structure-Based Feature Extraction & Machine Learning Preparation Project**
+**GPCR Structure-Based Feature Extraction & Machine Learning Preparation**
 
 **Researcher:** Moumen Alaoui  
 **Supervisor:** Dr. Alex Dickson, Samik Bose 
@@ -50,7 +50,7 @@
 
 ### Output
 - **Final Output File:** `features_matrix.csv`
-- **GitHub Repository:** https://github.com/moumenalaoui/GPCR_DATA
+- **GitHub Repository:** https://github.com/moumenalaoui/GPCR-IPL_Score-modified
 - **Directory Structure:** All relevant scripts, input files, and outputs are stored in the `GPCR_DATA/` folder.
 
 ---
