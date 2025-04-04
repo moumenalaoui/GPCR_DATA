@@ -50,7 +50,7 @@
 
 ### Output
 - **Final Output File:** `features_matrix.csv`
-- **GitHub Repository:** https://github.com/moumenalaoui/GPCR-IPL_Score-modified
+- **Modified GitHub Repository for the ML models:** https://github.com/moumenalaoui/GPCR-IPL_Score-modified
 - **Directory Structure:** All relevant scripts, input files, and outputs are stored in the `GPCR_DATA/` folder.
 
 ---
